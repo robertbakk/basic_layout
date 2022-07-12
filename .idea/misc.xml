@@ -10,6 +10,9 @@
         <entry key="app/src/main/res/layout/content_main.xml" value="0.3500905797101449" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.3500905797101449" />
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.3500905797101449" />
+        <entry key="app/src/main/res/layout/screen_constraint.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/screen_linear.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/screen_relative.xml" value="0.23596014492753623" />
         <entry key="app/src/main/res/menu/menu_main.xml" value="0.334375" />
       </map>
     </option>
